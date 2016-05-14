@@ -1,0 +1,7 @@
+-- VonTurtle System Startup
+------------------------------------
+-- Checks for missing programs
+-- Checks for newer versions
+-- Downlads/Updates as needed
+-- Loads APIs and sets initial files
+------------------------------------
